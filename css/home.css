@@ -1,0 +1,35 @@
+/*首页-s*/
+.guesslike ul li:nth-of-type(odd){
+    margin-right: .213rem;
+}
+.flash_none{
+    background: #fff;
+}
+.flash_none div:nth-child(1){
+    display:inline-block;
+    height:1.5rem;
+    line-height: 1.6rem;
+    font-size: .64rem;
+    font-weight: 600;
+    padding-left: .427rem;
+}
+.flash_none .xsxl>img{
+    width: .6rem;
+    margin-top: .2rem;
+    margin-right: .5rem;
+}
+.flash_none .xsxl span{
+    display:inline-block;
+    height:1.5rem;
+    line-height: 1.6rem;
+    font-size: .427rem;
+    font-weight: 600;
+    padding-right: .427rem;
+    color: #343434
+}
+.flash_none .xsxl a img{
+    padding-left: .6rem;
+    width: 1.1rem;
+    margin-top: -0.1rem;
+}
+/*首页-e*/
